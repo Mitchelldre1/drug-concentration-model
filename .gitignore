@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# PyCharm project settings
+.idea/
+# Python virtual enviroment
+.venv/
